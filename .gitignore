@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints
+
+# Environments
+.env
+.venv/
+env/
+venv/
+
+# Data & Models
+data/interim/
+models/*.pkl
+
+# System
+.DS_Store
+Thumbs.db
+
+# Streamlit cache
+.streamlit/
